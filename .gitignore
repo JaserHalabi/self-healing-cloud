@@ -1,8 +1,27 @@
+# Terraform
 *.tfstate
 *.tfstate.*
 .terraform/
+.terraform.lock.hcl
+crash.log
+
+# Environment & Secrets
 .env
 terraform.tfvars
 *.pem
-logs/
+aws_credentials.txt
+
+# Python
 __pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp

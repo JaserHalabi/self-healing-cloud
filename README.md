@@ -1,6 +1,6 @@
 # Self-Healing Cloud Infrastructure
 
-A cybersecurity project demonstrating **fully automated** security incident response in cloud environments. When a server is compromised, the system automatically isolates it, launches a clean replacement, and notifies the security team—all without human intervention.
+A cybersecurity project demonstrating **fully automated** security incident response in cloud environments. When a server is compromised, the system automatically isolates it, launches a clean replacement, and notifies the security team all without human intervention.
 
 ---
 

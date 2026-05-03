@@ -24,4 +24,6 @@ logs/
 # IDE
 .vscode/
 .idea/
-*.swp
+*.swpterraform/shuffle-key
+terraform/shuffle-key.pub
+terraform/shuffle-key

@@ -430,6 +430,6 @@ Ready for production use or as a demonstration of cloud security automation.
 Jaser Halabi
 
 GitHub: https://github.com/JaserHalabi/self-healing-cloud  
-LinkedIn: https://linkedin.com/in/JaserHalabi
+LinkedIn: https://linkedin.com/in/jaser-halabi
 
 ---

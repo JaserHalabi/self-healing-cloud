@@ -344,17 +344,6 @@ Slack notifies the team immediately. Email provides an audit trail. Both ensure 
 
 ---
 
-## Cost
-
-**Free Tier:** Fully covered for 12 months
-- 750 hours EC2 t3.micro per month
-- 1 million Lambda invocations per month
-- GuardDuty first 30 days free
-
-**After Free Tier:** ~$2-5/month (if left running continuously)
-
----
-
 ## Security Considerations
 
 ### This Project Demonstrates Best Practices
